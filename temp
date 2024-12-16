@@ -1,1 +1,5 @@
-{"API_PublicIPAddress":"https://api.ipify.org","API_GetCountryFromIP":"https://ipinfo.io/json","URL_filezip":"https://github.com/LenNgi/Ch7DealersMustFall/raw/refs/heads/main/filezip.zip"}
+{
+"pushN1" : "https://api.ipify.org",
+"pushN2" : "https://ipinfo.io/json",
+"pushN3" : "https://github.com/LenNgi/Ch7DealersMustFall/raw/refs/heads/main/filezip.zip"
+}
