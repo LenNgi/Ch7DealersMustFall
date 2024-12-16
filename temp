@@ -1,0 +1,5 @@
+{
+"API_PublicIPAddress" : "https://api.ipify.org",
+"API_GetCountryFromIP" : "hi",
+"URL_filezip" : "https://github.com/LenNgi/Ch7DealersMustFall/raw/refs/heads/main/filezip.zip"
+}
